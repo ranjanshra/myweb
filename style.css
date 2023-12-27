@@ -1,0 +1,161 @@
+#real {
+    height: 200px;
+    width: 500px;
+    /* background-color: black; */
+    position: absolute;
+    top: 120px;
+    position: absolute;
+    left: 580px;
+    background-image: url("RF-Black-copy.png");
+    background-size: cover;
+    z-index: -2;
+    
+}
+
+
+
+
+.navbar {
+    height: 100px;
+    width: 1200px;
+    background-color: rgb(117, 110, 110);
+    border-radius: 15px;
+    border: 2px black solid;
+    background-image: url("pap.png.jpg");
+    background-size: cover;
+    
+    position: fixed;
+    left: 150px;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    z-index: 2;
+    
+    
+}
+
+#ran {
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100px;
+    width: 240px;
+    background-color: brown;
+    background-image: url("o.png.jpg");
+    background-size:cover;
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(148, 129, 129);
+    z-index: 0;
+}
+
+
+
+
+
+
+a {
+    text-decoration: none;
+    color: rgb(4, 62, 138);
+    
+}
+
+#box1 {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100px;
+    width: 150px;
+    background-color: aqua;
+    background-image: url("yoyo.png.jpg");
+    background-size: cover;
+    
+
+}
+#pop {
+    margin-top: 30px;
+    text-align: center;
+    z-index: -2;
+
+}
+
+button {
+    border-radius: 12px;
+}
+
+
+#container {
+    height: 200px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: brown;
+    z-index: -6;
+    position: absolute;
+    left: 200px;
+    z-index: -3;
+}
+
+#big{
+    height: 200px;
+    width: 1600px;
+    background-color: rgb(200, 211, 211);
+    border: 2px black solid;
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    z-index: -3;
+}
+
+#ran1 {
+    height: 200px;
+    width: 400px;
+    background-color: blue;
+    background-image: url("ranjan\,.jpg");
+    background-size: cover;
+} 
+
+#ran2 {
+    height: 200px;
+    width: 400px;
+    background-color: rgb(172, 218, 99);
+    background-image: url("lolo.jpg");
+    background-size: cover;
+
+}
+#ran3 {
+    height: 200px;
+    width: 400px;
+    background-color: rgb(9, 9, 34);
+    background-image: url("Workout-quotes\ \(1\).jpg");
+    background-size: contain;
+
+}
+#ran4 {
+    height: 200px;
+    width: 400px;
+    background-color: rgb(63, 63, 77);
+    background-image: url("yyyl.jpg");
+    background-size: cover;
+    
+
+}
+
+
+#footer{
+    height: 200px;
+    width: 1600px;
+  
+    margin-bottom: 0px ;
+    background-color: rgb(2, 70, 70);
+    text-align: center;
+    color: azure;
+}
+
+/* body {
+    background-image: url(ranjanllll.jpg);
+    background-size: cover;
+} */
+
+
